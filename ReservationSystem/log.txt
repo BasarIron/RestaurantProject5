@@ -1,0 +1,8 @@
+----------------------------------------
+Rezervasyon Kapandı
+Current Date and Time (UTC): 2025-05-13 19:37:18
+Müşteri: Başar Demir
+Masa Numarası: Masa-1
+Rezervasyon Kodu: RZ53-da90e12d-4
+----------------------------------------
+
